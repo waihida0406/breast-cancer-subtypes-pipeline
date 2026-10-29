@@ -1,0 +1,14 @@
+[
+  {
+    "feature_set": "Clinical + IHC",
+    "best_model": "rf_balanced",
+    "test_balanced_accuracy": 0.4353,
+    "test_f1_macro": 0.4392
+  },
+  {
+    "feature_set": "Gene expression",
+    "best_model": "rf_balanced",
+    "test_balanced_accuracy": 0.6888,
+    "test_f1_macro": 0.7129
+  }
+]

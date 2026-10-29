@@ -1,0 +1,7 @@
+feature_set,model,balanced_accuracy_mean,f1_macro_mean,accuracy_mean,balanced_accuracy_sd,f1_macro_sd,accuracy_sd
+Clinical + IHC,baseline_majority,0.1667,0.0878,0.3577,0.0,0.0002,0.001
+Clinical + IHC,logreg_balanced,0.4659,0.4439,0.4594,0.0298,0.0237,0.0184
+Clinical + IHC,rf_balanced,0.4494,0.4543,0.4967,0.0253,0.0264,0.0239
+Gene expression,baseline_majority,0.1667,0.0878,0.3577,0.0,0.0002,0.001
+Gene expression,logreg_balanced,0.7029,0.6965,0.7268,0.0289,0.0262,0.0235
+Gene expression,rf_balanced,0.6977,0.7239,0.7707,0.0337,0.0325,0.0218
