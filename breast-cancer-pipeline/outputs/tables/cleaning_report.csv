@@ -1,8 +1,0 @@
-step,rows_removed,note
-drop unclassified / missing PAM50 subtype,6,
-drop duplicate patient_id,0,
-drop missing / implausible age,0,
-drop missing survival time,0,
-receptor status harmonised (incl. 'Positve' typo),0,
-expression genes kept (of 183),0,183.0
-final patients,6,1898.0
